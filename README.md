@@ -1,9 +1,9 @@
 ### Hi 👋 Welcome to my GitHub Profile
 
-My name is Yulia, and I am a developer.
-Currently, I am a student at School 42.
-In the past, I have been working as a Backend Developer for Bio/MedTech startups.
-In ancient times, I used to be a QA Lead.
+My name is Yulia, and I am a developer.  
+Currently, I am a student at School 42.  
+In the past, I have been working as a Backend Developer for Bio/MedTech startups.  
+In ancient times, I used to be a QA Lead.  
 
 <a href="https://www.linkedin.com/in/yuliaioffe/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 
