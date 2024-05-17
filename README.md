@@ -16,7 +16,7 @@ In ancient times, I used to be a QA Lead.
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> 
-<a href="https://openai.com/chatgpt" target="_blank"> <img src="https://openai.com/favicon.ico" alt="chatgpt" width="40" height="40"/> </a> 
+<a href="https://openai.com/chatgpt" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="chatgpt" width="40" height="40"/> </a>
 
 ## Technology Stack
 
